@@ -1,0 +1,557 @@
+/run/initialize
+
+#hole1
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -19.4395 -2.9528 0.0 mm
+/gun/pos/radius 1.1947 mm
+/gun/pos/halfz  37. mm
+
+#hole2
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -17.8383 3.0455 0. mm
+/gun/pos/radius 1.5881 mm
+/gun/pos/halfz  37. mm
+
+#hole3
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -17.0353 -7.1047 0. mm
+/gun/pos/radius 1.1947 mm
+/gun/pos/halfz  37. mm
+
+#hole4
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -14.6379 8.5824 0. mm
+/gun/pos/radius 1.5881 mm
+/gun/pos/halfz  37. mm
+
+#hole5
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -14.6368 -11.2587 0. mm
+/gun/pos/radius 1.1959 mm
+/gun/pos/halfz  37. mm
+
+#hole6
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -14.6446 -2.9494 0. mm
+/gun/pos/radius 1.1898 mm
+/gun/pos/halfz  37. mm
+
+#hole7
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -12.2429 -15.4138 0. mm
+ 1.1898 mm
+/gun/pos/halfz  37. mm
+
+#hole8
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -12.2431 -7.1035 0. mm
+/gun/pos/radius 1.1935 mm
+/gun/pos/halfz 37. mm
+
+#hole9
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -11.4423 3.0511 0. mm
+/gun/pos/radius 1.5937 mm
+/gun/pos/halfz 37. mm
+
+#hole10
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -11.445 14.1224 0. mm
+/gun/pos/radius 1.5918 mm
+/gun/pos/halfz 37. mm
+
+#hole11
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -9.846 -11.2564 0. mm
+/gun/pos/radius 1.191 mm
+/gun/pos/halfz 37. mm
+
+#hole12
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -9.8453 -2.9458 0. mm
+/gun/pos/radius 1.1898 mm
+/gun/pos/halfz 37. mm
+
+#hole13
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -8.2467 8.5824 0. mm
+/gun/pos/radius 1.5881 mm
+/gun/pos/halfz 37. mm
+
+#hole14
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -7.8485 -19.7874 0. mm
+/gun/pos/radius 0.79174 mm
+/gun/pos/halfz 37. mm
+
+#hole15
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -7.4464 -7.1032 0. mm
+/gun/pos/radius 1.1898 mm
+/gun/pos/halfz 37. mm
+
+#hole16
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -6.25 -17.0263 0. mm
+/gun/pos/radius 0.80281 mm
+/gun/pos/halfz 37. mm
+
+#hole17
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -5.0481 3.0461 0. mm
+/gun/pos/radius 1.5872 mm
+/gun/pos/halfz 37. mm
+
+#hole18
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -5.0481 -2.951 0. mm
+/gun/pos/radius 1.1861 mm
+/gun/pos/halfz 37. mm
+
+#hole19
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -3.8512 14.9687 0. mm
+/gun/pos/radius 1.9888 mm
+/gun/pos/halfz 37. mm
+
+#hole20
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -4.6549 -19.7888 0. mm
+/gun/pos/radius 0.79359 mm
+/gun/pos/halfz 37. mm
+
+#hole21
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -4.6574 -14.2637 0. mm
+/gun/pos/radius 0.79174 mm
+/gun/pos/halfz 37. mm
+
+#hole22
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -3.056 -17.0272 0. mm
+/gun/pos/radius 0.79729 mm
+/gun/pos/halfz 37. mm
+
+#hole23
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -3.0426 -11.4902 0. mm
+/gun/pos/radius 0.79174 mm
+/gun/pos/halfz 37. mm
+
+#hole24
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -1.452 -19.798 0. mm
+/gun/pos/radius 0.80098 mm
+/gun/pos/halfz 37. mm
+
+#hole25
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -1.4571 -14.2528 0. mm
+/gun/pos/radius 0.79359 mm
+/gun/pos/halfz 37. mm
+
+#hole26
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre -1.4568 -8.7175 0. mm
+/gun/pos/radius 0.79174 mm
+/gun/pos/halfz 37. mm
+
+#hole27
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 0.14423 8.0448 0. mm
+/gun/pos/radius 1.9858 mm
+/gun/pos/halfz 37. mm
+
+
+#hole28
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 0.14423 -17.0192 0. mm
+/gun/pos/radius 0.79729 mm
+/gun/pos/halfz 37. mm
+
+#hole29
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 0.14423 -11.4835 0. mm
+/gun/pos/radius 0.78614 mm
+/gun/pos/halfz 37. mm
+
+#hole30
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 0.14423 -5.9366 0. mm
+/gun/pos/radius 0.79729 mm
+/gun/pos/halfz 37. mm
+
+#hole31
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 1.7405 -19.798 0. mm
+/gun/pos/radius 0.80098 mm
+/gun/pos/halfz 37. mm
+
+#hole32
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 1.7456 -14.2528 0. mm
+/gun/pos/radius 0.79359 mm
+/gun/pos/halfz 37. mm
+
+#hole33
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 1.7452 -8.7175 0. mm
+/gun/pos/radius 0.79174 mm
+/gun/pos/halfz 37. mm
+
+#hole34
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 4.1396 14.9687 0. mm
+/gun/pos/radius 1.9888 mm
+/gun/pos/halfz 37. mm
+
+#hole35
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 3.3445 -17.0272 0. mm
+/gun/pos/radius 0.79729 mm
+/gun/pos/halfz 37. mm
+
+#hole36
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 3.3311 -11.4902 0. mm
+/gun/pos/radius 0.79174 mm
+/gun/pos/halfz 37. mm
+
+#hole37
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 4.9434 -19.7888 0. mm
+/gun/pos/radius 0.79359 mm
+/gun/pos/halfz 37. mm
+
+#hole38
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 4.9458 -14.2637 0. mm
+/gun/pos/radius 0.79174 mm
+/gun/pos/halfz 37. mm
+
+#hole39
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 7.0673 4.0426 0. mm
+/gun/pos/radius 2.3833 mm
+/gun/pos/halfz 37. mm
+
+#hole40
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 5.3365 -2.9417 0. mm
+/gun/pos/radius 0.58929 mm
+/gun/pos/halfz 37. mm
+
+#hole41
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 6.5385 -17.0263 0. mm
+/gun/pos/radius 0.80281 mm
+/gun/pos/halfz 37. mm
+
+#hole42
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 6.5306 -5.0292 0. mm
+/gun/pos/radius 0.5992 mm
+/gun/pos/halfz 37. mm
+
+#hole43
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 7.7333 -7.0996 0. mm
+/gun/pos/radius 0.5992 mm
+/gun/pos/halfz 37. mm
+
+#hole44
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 7.7348 -2.9407 0. mm
+/gun/pos/radius 0.59427 mm
+/gun/pos/halfz 37. mm
+
+#hole45
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 8.137 -19.7874 0. mm
+/gun/pos/radius 0.79174 mm
+/gun/pos/halfz 37. mm
+
+#hole46
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 8.9306 -9.1784 0. mm
+/gun/pos/radius 0.60165 mm
+/gun/pos/halfz 37. mm
+
+#hole47
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 8.9258 -5.0331 0. mm
+/gun/pos/radius 0.5992 mm
+/gun/pos/halfz 37. mm
+
+#hole48
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 11.8615 12.3535 0. mm
+/gun/pos/radius 2.3845 mm
+/gun/pos/halfz 37. mm
+
+#hole49
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 10.1329 -11.2633 0. mm
+/gun/pos/radius 0.60165 mm
+/gun/pos/halfz 37. mm
+
+#hole50
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 10.1329 -7.1021 0. mm
+/gun/pos/radius 0.60165 mm
+/gun/pos/halfz 37. mm
+
+#hole51
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 10.1341 -2.9428 0. mm
+/gun/pos/radius 0.59179 mm
+/gun/pos/halfz 37. mm
+
+#hole52
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 11.3247 -13.3328 0. mm
+/gun/pos/radius 0.59674 mm
+/gun/pos/halfz 37. mm
+
+#hole53
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 11.3263 -9.1783 0. mm
+/gun/pos/radius 0.59674 mm
+/gun/pos/halfz 37. mm
+
+#hole54
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 11.3247 -5.0326 0. mm
+/gun/pos/radius 0.59674 mm
+/gun/pos/halfz 37. mm
+
+#hole55
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 12.538 -15.4226 0. mm
+/gun/pos/radius 0.59179 mm
+/gun/pos/halfz 37. mm
+
+#hole56
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 12.5331 -11.2666 0. mm
+/gun/pos/radius 0.5992 mm
+/gun/pos/halfz 37. mm
+
+#hole57
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 12.5331 -7.0988 0. mm
+/gun/pos/radius 0.5992 mm
+/gun/pos/halfz 37. mm
+
+#hole58
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre  12.538 -2.9428 0. mm
+/gun/pos/radius 0.59179 mm
+/gun/pos/halfz 37. mm
+
+#hole59
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 13.7219 -17.4836 0. mm
+/gun/pos/radius 0.60165 mm
+/gun/pos/halfz 37. mm
+
+#hole60
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 13.7236 -13.3325 0. mm
+/gun/pos/radius 0.59427 mm
+/gun/pos/halfz 37. mm
+
+#hole61
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 13.7179 -9.1827 0. mm
+/gun/pos/radius 0.59427 mm
+/gun/pos/halfz 37. mm
+
+#hole62
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 13.7236 -5.0329 0. mm
+/gun/pos/radius 0.59427 mm
+/gun/pos/halfz 37. mm
+
+#hole63
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 16.6608 4.0407 0. mm
+/gun/pos/radius 2.3833 mm
+/gun/pos/halfz 37. mm
+
+#hole64
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 14.9348 -15.4156 0. mm
+/gun/pos/radius 0.59674 mm
+/gun/pos/halfz 37. mm
+
+#hole65
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 14.9369 -11.2666 0. mm
+/gun/pos/radius 0.5992 mm
+/gun/pos/halfz 37. mm
+
+#hole66
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 14.9369 -7.0988 0. mm
+/gun/pos/radius 0.5992 mm
+/gun/pos/halfz 37. mm
+
+#hole67
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 14.9373 -2.9408 0. mm
+/gun/pos/radius 0.58929 mm
+/gun/pos/halfz 37. mm
+
+#hole68
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 16.1204 -13.3255 0. mm
+/gun/pos/radius 0.58929 mm
+/gun/pos/halfz 37. mm
+
+#hole69
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 16.1183 -9.1791 0. mm
+/gun/pos/radius 0.59179 mm
+/gun/pos/halfz 37. mm
+
+#hole70
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 16.1229 -5.031 0. mm
+/gun/pos/radius 0.59674 mm
+/gun/pos/halfz 37. mm
+
+#hole71
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 17.3291 -11.2595 0. mm
+/gun/pos/radius 0.59674 mm
+/gun/pos/halfz 37. mm
+
+#hole72
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 17.3358 -7.099 0. mm
+/gun/pos/radius 0.60165 mm
+/gun/pos/halfz 37. mm
+
+#hole73
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 17.3341 -2.9479 0. mm
+/gun/pos/radius 0.59427 mm
+/gun/pos/halfz 37. mm
+
+#hole74
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 18.5186 -9.1827 0. mm
+/gun/pos/radius 0.58929 mm
+/gun/pos/halfz 37. mm
+
+#hole75
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 18.5197 -5.038 0. mm
+/gun/pos/radius 0.59179 mm
+/gun/pos/halfz 37. mm
+
+#hole76
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 19.7277 -7.0992 0. mm
+/gun/pos/radius 0.59179 mm
+/gun/pos/halfz 37. mm
+
+#hole77
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 19.733 -2.9482 0. mm
+/gun/pos/radius 0.59674 mm
+/gun/pos/halfz 37. mm
+
+#hole78
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 20.9216 -5.0334 0. mm
+/gun/pos/radius 0.58929 mm
+/gun/pos/halfz 37. mm
+
+#hole78
+/gun/type Volume
+/gun/pos/shape  Cylinder
+/gun/pos/centre 22.1319 -2.9477 0. mm
+/gun/pos/radius 0.5992 mm
+/gun/pos/halfz 37. mm
+
+/run/beamOn 10000

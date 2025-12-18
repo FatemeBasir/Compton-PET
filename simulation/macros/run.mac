@@ -1,0 +1,12 @@
+#give inform in terminal
+#
+# Change the default number of workers (in multi-threading mode) 
+/run/numberOfThreads 8
+#
+# Initialize kernel
+/run/initialize
+#
+/gun/momentumAmp 10 GeV
+#/gun/position 0 0 -5 m
+#/gun/particle pi+
+/run/beamOn 10000
