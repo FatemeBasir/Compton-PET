@@ -1,0 +1,165 @@
+# Change the default number of workers (in multi-threading mode) 
+/run/numberOfThreads 8
+#
+# Initialize kernel
+/run/initialize
+#
+# Number of events
+/control/alias nEvents 10000
+#
+/gun/position -19.4395 -2.9528 0. mm
+/run/beamOn {nEvents}
+/gun/position -17.8383 3.0455 0. mm
+/run/beamOn {nEvents}
+/gun/position -17.0353 -7.1047 0. mm
+/run/beamOn {nEvents}
+/gun/position -14.6379 8.5824 0. mm
+/run/beamOn {nEvents}
+/gun/position -14.6368 -11.2587 0. mm
+/run/beamOn {nEvents}
+/gun/position -12.2429 -15.4138 0. mm
+/run/beamOn {nEvents}
+/gun/position -12.2431 -7.1035 0. mm
+/run/beamOn {nEvents}
+/gun/position -11.4423 3.0511 0. mm
+/run/beamOn {nEvents}
+/gun/position -11.445 14.1224 0. mm
+/run/beamOn {nEvents}
+/gun/position -9.846 -11.2564 0. mm
+/run/beamOn {nEvents}
+/gun/position -9.8453 -2.9458 0. mm
+/run/beamOn {nEvents}
+/gun/position -8.2467 8.5824 0. mm
+/run/beamOn {nEvents}
+/gun/position -7.8485 -19.7874 0. mm
+/run/beamOn {nEvents}
+/gun/position -7.4464 -7.1032 0. mm
+/run/beamOn {nEvents}
+/gun/position -6.25 -17.0263 0. mm
+/run/beamOn {nEvents}
+/gun/position -5.0481 3.0461 0. mm
+/run/beamOn {nEvents}
+/gun/position -5.0481 -2.951 0. mm
+/run/beamOn {nEvents}
+/gun/position -3.8512 14.9687 0. mm
+/run/beamOn {nEvents}
+/gun/position -4.6549 -19.7888 0. mm
+/run/beamOn {nEvents}
+/gun/position -4.6574 -14.2637 0. mm
+/run/beamOn {nEvents}
+/gun/position -3.056 -17.0272 0. mm
+/run/beamOn {nEvents}
+/gun/position -3.0426 -11.4902 0. mm
+/run/beamOn {nEvents}
+/gun/position -1.452 -19.798 0. mm
+/run/beamOn {nEvents}
+/gun/position -1.4571 -14.2528 0. mm
+/run/beamOn {nEvents}
+/gun/position -1.4568 -8.7175 0. mm
+/run/beamOn {nEvents}
+/gun/position 0.14423 8.0448 0. mm
+/run/beamOn {nEvents}
+/gun/position 0.14423 -17.0192 0. mm
+/run/beamOn {nEvents}
+/gun/position 0.14423 -11.4835 0. mm
+/run/beamOn {nEvents}
+/gun/position 0.14423 -5.9366 0. mm
+/run/beamOn {nEvents}
+/gun/position 1.7405 -19.798 0. mm
+/run/beamOn {nEvents}
+/gun/position 1.7456 -14.2528 0. mm
+/run/beamOn {nEvents}
+/gun/position 1.7452 -8.7175 0. mm
+/run/beamOn {nEvents}
+/gun/position 4.1396 14.9687 0. mm
+/run/beamOn {nEvents}
+/gun/position 3.3445 -17.0272 0. mm
+/run/beamOn {nEvents}
+/gun/position 3.3311 -11.4902 0. mm
+/run/beamOn {nEvents}
+/gun/position 4.9434 -19.7888 0. mm
+/run/beamOn {nEvents}
+/gun/position 4.9458 -14.2637 0. mm
+/run/beamOn {nEvents}
+/gun/position 7.0673 4.0426 0. mm
+/run/beamOn {nEvents}
+/gun/position 5.3365 -2.9417 0. mm
+/run/beamOn {nEvents}
+/gun/position 6.5385 -17.0263 0. mm
+/run/beamOn {nEvents}
+/gun/position 6.5306 -5.0292 0. mm
+/run/beamOn {nEvents}
+/gun/position 7.7333 -7.0996 0. mm
+/run/beamOn {nEvents}
+/gun/position 7.7348 -2.9407 0. mm
+/run/beamOn {nEvents}
+/gun/position 8.137 -19.7874 0. mm
+/run/beamOn {nEvents}
+/gun/position 8.9306 -9.1784 0. mm
+/run/beamOn {nEvents}
+/gun/position 8.9258 -5.0331 0. mm
+/run/beamOn {nEvents}
+/gun/position 11.8615 12.3535 0. mm
+/run/beamOn {nEvents}
+/gun/position 10.1329 -11.2633 0. mm
+/run/beamOn {nEvents}
+/gun/position 10.1329 -7.1021 0. mm
+/run/beamOn {nEvents}
+/gun/position 10.1341 -2.9428 0. mm
+/run/beamOn {nEvents}
+/gun/position 11.3247 -13.3328 0. mm
+/run/beamOn {nEvents}
+/gun/position 11.3263 -9.1783 0. mm
+/run/beamOn {nEvents}
+/gun/position 11.3247 -5.0326 0. mm
+/run/beamOn {nEvents}
+/gun/position 12.538 -15.4226 0. mm
+/run/beamOn {nEvents}
+/gun/position 12.5331 -11.2666 0. mm
+/run/beamOn {nEvents}
+/gun/position 12.5331 -7.0988 0. mm
+/run/beamOn {nEvents}
+/gun/position 12.538 -2.9428 0. mm
+/run/beamOn {nEvents}
+/gun/position 13.7219 -17.4836 0. mm
+/run/beamOn {nEvents}
+/gun/position 13.7236 -13.3325 0. mm
+/run/beamOn {nEvents}
+/gun/position 13.7179 -9.1827 0. mm
+/run/beamOn {nEvents}
+/gun/position 13.7236 -5.0329 0. mm
+/run/beamOn {nEvents}
+/gun/position 16.6608 4.0407 0. mm
+/run/beamOn {nEvents}
+/gun/position 14.9348 -15.4156 0. mm
+/run/beamOn {nEvents}
+/gun/position 14.9369 -11.2666 0. mm
+/run/beamOn {nEvents}
+/gun/position 14.9369 -7.0988 0. mm
+/run/beamOn {nEvents}
+/gun/position 14.9373 -2.9408 0. mm
+/run/beamOn {nEvents}
+/gun/position 16.1204 -13.3255 0. mm
+/run/beamOn {nEvents}
+/gun/position 16.1183 -9.1791 0. mm
+/run/beamOn {nEvents}
+/gun/position 16.1229 -5.031 0. mm
+/run/beamOn {nEvents}
+/gun/position 17.3291 -11.2595 0. mm
+/run/beamOn {nEvents}
+/gun/position 17.3358 -7.099 0. mm
+/run/beamOn {nEvents}
+/gun/position 17.3341 -2.9479 0. mm
+/run/beamOn {nEvents}
+/gun/position 18.5186 -9.1827 0. mm
+/run/beamOn {nEvents}
+/gun/position 18.5197 -5.038 0. mm
+/run/beamOn {nEvents}
+/gun/position 19.7277 -7.0992 0. mm
+/run/beamOn {nEvents}
+/gun/position 19.733 -2.9482 0. mm
+/run/beamOn {nEvents}
+/gun/position 20.9216 -5.0334 0. mm
+/run/beamOn {nEvents}
+/gun/position 22.1319 -2.9477 0. mm
+/run/beamOn {nEvents}
